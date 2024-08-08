@@ -1,0 +1,27 @@
+.bg-primary {
+  background-color: darkcyan;
+}
+
+.bg-secondary {
+  background-color: aquamarine;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-light {
+	color: antiquewhite;
+}
+
+.text-info {
+	color: azure;
+}
+
+.w-200 {
+	width: 200px;
+}
+
+.text-primary {
+	color: black;
+}

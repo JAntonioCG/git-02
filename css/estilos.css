@@ -25,3 +25,13 @@
 .text-primary {
 	color: black;
 }
+
+.text-white {
+	color: #fff;
+}
+
+.button-info {
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+}
